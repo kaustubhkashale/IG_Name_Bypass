@@ -1,6 +1,6 @@
 # Instagram Account Name Change without waintng for 14 Days.
-• Fully Python based Project.
-• You can Change your Instagram Account Name Unlimited Times without waiting for 14 Days.
+* Fully Python based Project.
+* You can Change your Instagram Account Name Unlimited Times without waiting for 14 Days.
 • Compatible with Windows.
 • Fast and Easy to Use.
 • Direct Login with the Instagram Server.
