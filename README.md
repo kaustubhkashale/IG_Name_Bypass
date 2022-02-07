@@ -2,7 +2,7 @@
 #### Bypasses the 14-Day wait to change your account's 'First Name' on Instagram!
 * Accepts logins without 2-Factor.
 * Compatible with Windows.
-* Faster and Easy to Use.
+* Fast and Easy to Use.
 * Accepts all characters!
 
 ## Steps to Use the Tool
