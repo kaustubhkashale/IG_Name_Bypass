@@ -1,9 +1,9 @@
-# Instagram Account Name Changer without waintng for 14 Days.
+# IG_Name_Bypass | By SPIDY
+### IG_Name_Bypass | Bypasses the 14-Day wait to change your account's 'First Name' on Instagram!
 * Fully Python based Project.
 * Compatible with Windows.
-* Fast and Easy to Use.
-* Direct Login with the Instagram Server.
-* No Credentials Leaks.
+* Faster and Easy to Use.
+* Accepts all characters!
 
 # Steps to Use the Tool
 1. Download the Tools.
